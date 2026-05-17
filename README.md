@@ -1,6 +1,16 @@
 # FUTURE_DS_01
 Data Analysis Task
 # Business Sales Performance Analytics
+## Project Structure
+
+FUTURE_DS_01/
+│
+├── data/
+├── notebooks/
+├── images/
+├── reports/
+├── dashboards/
+└── README.md
 
 ## Project Overview
 This project analyzes business sales data to identify:
@@ -71,9 +81,40 @@ Superstore Sales Dataset
 ![Heatmap](images/heatmap.png)
 
 ---
+---
+
 ## Power BI Dashboard
 
+The dashboard was created using Power BI to visualize:
+- Sales Performance
+- Profit Analysis
+- Regional Trends
+- Monthly Sales Trends
+- Category-wise Performance
+
 ![Power BI Dashboard](images/powerbi_dashboard.png)
+
+---
+
+---
+
+## Final Project Report
+
+A detailed project report containing:
+- project objectives,
+- data cleaning steps,
+- exploratory data analysis,
+- visualizations,
+- business insights,
+- recommendations,
+- and conclusions
+
+is available in the reports folder.
+
+📄 Report File:
+[View Final Report](reports/final_report.md)
+
+
 ## Conclusion
 This project demonstrates practical business analytics skills including:
 - data cleaning,
