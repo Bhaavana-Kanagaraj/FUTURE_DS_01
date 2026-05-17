@@ -1,16 +1,6 @@
 # FUTURE_DS_01
 Data Analysis Task
 # Business Sales Performance Analytics
-## Project Structure
-
-FUTURE_DS_01/
-│
-├── data/
-├── notebooks/
-├── images/
-├── reports/
-├── dashboards/
-└── README.md
 
 ## Project Overview
 This project analyzes business sales data to identify:
