@@ -71,7 +71,9 @@ Superstore Sales Dataset
 ![Heatmap](images/heatmap.png)
 
 ---
+## Power BI Dashboard
 
+![Power BI Dashboard](images/powerbi_dashboard.png)
 ## Conclusion
 This project demonstrates practical business analytics skills including:
 - data cleaning,
