@@ -71,7 +71,6 @@ Superstore Sales Dataset
 ![Heatmap](images/heatmap.png)
 
 ---
----
 
 ## Power BI Dashboard
 
